@@ -25,6 +25,8 @@ void setup() {
   
   println(Arduino.list());
   
+  // ditis een test
+  
   // instantiate the spacebrewConnection variable
   sb = new Spacebrew( this );
   
